@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.github.debugxposed">
+          package="com.github.deskid.xdebug">
 
     <application
         android:label="@string/app_name">
@@ -9,7 +9,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Easy example which makes the status bar clock red and adds a smiley" />
+            android:value="Make all app on your phone debuggable" />
         <meta-data
             android:name="xposedminversion"
             android:value="81" />
